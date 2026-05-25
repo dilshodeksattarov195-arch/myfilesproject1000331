@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorsync",
+        "uuid": 2144549,
+        "checksum": "7u28yj"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
